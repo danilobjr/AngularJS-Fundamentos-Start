@@ -1,0 +1,25 @@
+{
+  "name": "AngularJS-Fundamentos-Start",
+  "version": "0.0.1",
+  "description": "Basic structure for start coding the course's webapp",
+  "private": true,
+  "dependencies": {
+    "express": "~4.2.0",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "ejs": "~0.8.5",
+    "lodash": "^2.4.1",
+    "moment": "^2.8.1"
+  },
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-jshint": "^1.8.4",
+    "gulp-watch": "^0.6.9",
+    "jshint-stylish": "^0.4.0",
+    "connect-livereload": "^0.4.0",
+    "tiny-lr": "^0.1.0"
+  }
+}

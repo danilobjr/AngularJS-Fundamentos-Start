@@ -1,0 +1,10 @@
+{
+  "name": "AngularJS-Fundamentos-Start",
+  "version": "0.0.0",
+  "authors": [
+    "Danilo Jr. <danilobjr@gmail.com>"
+  ],
+  "description": "Basic structure for start coding the course webapp",
+  "license": "MIT",
+  "private": true
+}
