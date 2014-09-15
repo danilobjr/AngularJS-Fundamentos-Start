@@ -27,7 +27,7 @@ npm install --save-dev gulp</code></pre>
 Usando o Bower
 --------------
 
-O [Bower](http://bower.io/) é um gerenciador de pacotes web. Com ele a gente pode obter rapidamente bibliotecas e frameworks
+O <a href="http://bower.io/">Bower</a> é um gerenciador de pacotes web. Com ele a gente pode obter rapidamente bibliotecas e frameworks
 (como o AngularJS, jQuery, Bootstrap) sem nem sequer abrir o browser. Consequentemente você não precisaria,
 após baixar a biblioteca desejada, descompactar, copiar e colar pra pasta desejada.
 
