@@ -7,7 +7,7 @@ Instalação
 ----------
 
 <ol>
-<li>Instale o [Node.js](http://nodejs.org/download/) na sua máquina</li>
+<li>Instale o Node.js na sua máquina. Baixe o arquivo em <a href="http://nodejs.org/download/">nodejs.org/download</a></li>
 <li>Faça o download do projeto clicando no botão Download ZIP ao lado, na barra lateral desta página</li>
 <li>Descompacte o arquivo obtido</li>
 <li>Abra o prompt de comando e navegue até o caminho da pasta descompactada</li>
@@ -27,7 +27,7 @@ npm install --save-dev gulp</code></pre>
 Usando o Bower
 --------------
 
-O <a href="http://bower.io/">Bower</a> é um gerenciador de pacotes web. Com ele a gente pode obter rapidamente bibliotecas e frameworks
+O  [Bower](http://bower.io/) é um gerenciador de pacotes web. Com ele a gente pode obter rapidamente bibliotecas e frameworks
 (como o AngularJS, jQuery, Bootstrap) sem nem sequer abrir o browser. Consequentemente você não precisaria,
 após baixar a biblioteca desejada, descompactar, copiar e colar pra pasta desejada.
 
