@@ -149,8 +149,13 @@ button:active {
     border: none;
 }
 
-.table > thead > .success > th {
+/*.table > thead > .success > th {
     color: #F0F7F7;
+}*/
+
+.table > thead > tr > th {
+    color: #F0F7F7;
+    background-color: #73C2BD;
 }
 
 .table > thead > tr > th > .fa:hover,
@@ -164,12 +169,13 @@ button:active {
 
 .table > tbody > tr > td {
     color: #686A6A;
+    font-size: 24px;
     /* color: #4A8482 !important; */
 }
 
-.table > tbody > tr > td > span {
+/*.table > tbody > tr > td > span {
     font-size: 24px;
-}
+}*/
 
 /* .table > tbody > tr > td > h3 {
     color: #686A6A;
