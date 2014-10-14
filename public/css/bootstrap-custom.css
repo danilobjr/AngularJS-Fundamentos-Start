@@ -17,6 +17,11 @@
     color: #b0b0b0;
 }
 
+::selection {
+    color: #f0f7f7;
+    background: #ef7c46;
+}
+
 .bg-success,
 .table > thead > tr > td.success,
 .table > tbody > tr > td.success,
